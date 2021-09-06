@@ -1,0 +1,45 @@
+n {
+    color:#00FFFF;
+    font-size:60;
+    font-family:Reem Kufi;
+    font-weight:bold;
+    padding: 25px;
+	margin: 25px;
+    text-align: center;
+    background: black;
+}
+ds {
+   color:#808080;
+   font-size:15;  
+   
+   font-weight:bold;
+   
+}
+ul { 
+   list-style-type:none;
+}
+p  {
+   float:left;
+   width:75%;
+   background: #101217;
+   }   
+h {
+  float :right;
+  width:25%;
+  background: #7B85A1;
+  font-family:Bahnschrift SemiBold;
+  }
+g  {
+   float:left;
+   width:75%;
+   background: #2A2E38;
+   }   
+
+b {
+   color:#4CBFBF;
+   font-size:20;  
+   font-family: Georgia;  
+   }
+ q {
+    border-radius: 20%;
+}	
