@@ -1,4 +1,4 @@
-n {
+header {
     color:#00FFFF;
     font-size:60;
     font-family:Reem Kufi;
@@ -43,3 +43,14 @@ b {
  q {
     border-radius: 20%;
 }	
+f {
+   color:#00FFFF;
+   font-size:20;
+   font-family:Reem Kufi;
+   font-weight:bold;
+   padding: 25px;
+	margin: 25px;
+   text-align: center;
+   background: black;
+
+}
